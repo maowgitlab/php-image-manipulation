@@ -24,7 +24,7 @@ function cropImage($file, $cropWidth, $cropHeight) {
     return $croppedImage;
 }
 
-$file = 'pexels-peter-fazekas-1089451.jpg';
+$file = 'TODO';
 
 $newWidth = 800;
 $newHeight = 600;
